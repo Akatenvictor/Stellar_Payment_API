@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feature/fe-implement-internationalization-i18n-support-for-kyc-submission-form",
+    "main",
+    "origin",
+    "security/metadata-sanitization",
+    "touch-up-fix-accessibility"
+  ],
+  "parent": {
+    "feature/fe-implement-internationalization-i18n-support-for-kyc-submission-form": "main",
+    "main": null,
+    "origin": "main",
+    "security/metadata-sanitization": "main",
+    "touch-up-fix-accessibility": "main"
+  },
+  "order": [
+    "main",
+    "feature/fe-implement-internationalization-i18n-support-for-kyc-submission-form",
+    "origin",
+    "security/metadata-sanitization",
+    "touch-up-fix-accessibility"
+  ]
+}
